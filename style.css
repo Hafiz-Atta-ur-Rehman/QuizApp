@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(191, 252, 180);
+}
+.main{
+    background-image: url('download.png');
+    background-repeat: no-repeat;
+    
+}
+.main div h1{
+    text-align: center;
+    color: rgb(128, 0, 111);
+}
+.q{
+    border: 2px solid rgb(128, 0, 111);
+    border-radius: 1em;
+    width: 50%;
+    margin: 0 0 0 25%;
+    color: rgb(255, 4, 129);
+}
+.q p{
+    /* margin-left: 30%; */
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.q input{
+    margin: 0 0 10px 40%;
+}
+button{
+    margin: 50px 0 0 33%;
+    width: 500px;
+    height: 50px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    border: 2px solid rgb(128, 0, 111);
+    border-radius: 3em;
+}
